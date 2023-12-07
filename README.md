@@ -1,12 +1,12 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=VadamDev&show_icons=true&theme=tokyonight" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadamDev&theme=tokyonight" />
+## 💻 Statistics
 
-<br><br><br><br><br><br><br><br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VadamDev&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VadamDev&theme=tokyonight)
 
-## Hi 👋 
-<b>∎ My name is [VadamDev](https://vadamdev.fr) (or Edgar IRL). I'm a Java And Lua Developer.</b>
+## Hi 👋
+∎ My name is [VadamDev](https://vadamdev.net) (or Edgar IRL).
 
-<b>∎ I'm currently working on [Lysaria](https://lysaria.fr) (Lead Dev) A Minecraft server using Java and Spigot.<br>
-➥ I'm also the main [VIAPI](https://github.com/VadamDev/VIAPI) Developer, an API for helping the Minecraft Plugin creation.</b>
+∎ I'm currently working on [Lysaria](https://lysaria.fr) (Lead Dev) A Minecraft server using Java and Spigot.
+➥ I'm also the main [VIAPI](https://github.com/VadamDev/VIAPI) Developer, an API for helping the Minecraft Plugin creation.
   
-<b>∎ On My free time I make Minecraft Mods, Discord Bots and Scrap Mechanic Mods.</b>
+∎ On My free time I make Minecraft Mods, Discord Bots and Scrap Mechanic Mods.

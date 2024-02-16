@@ -9,7 +9,7 @@ My name is [VadamDev](https://vadamdev.net) (or Edgar IRL). I'm a 17 yo programm
 ### Languages
 - Java
 - Lua
-- JS/TS
+- JS / TS
 
 Learning:
 - C#
@@ -26,4 +26,4 @@ Learning:
 - [JafarBot](https://github.com/VadamDev/JafarBot)
 - [Starbank](https://github.com/VadamDev/StarBankBot)
 
-I have a lot of random side projects on my profile check them out if you're curious !
+I have a lot of random side projects on my profile, feel free to check them if you're curious!

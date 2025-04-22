@@ -4,7 +4,7 @@ I'm VadamDev, a developer from France !
 My primary programming language is Java, but I also usually use Lua and C#.
 
 Known languages:
-- Java, Lua, C# Javascript, Python
+- Java, Lua, C#, Javascript, Python
 
 I'm currently learning:
 - GLSL

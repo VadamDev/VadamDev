@@ -17,7 +17,7 @@
 > ### `💼 Open Source Projects`
   | Name                                                            | Description                                                                       | Domain        |
   |:---------------------------------------------------------------:|:---------------------------------------------------------------------------------:|:-------------:|
-  | [Voxel Engine](https://github.com/VolaxYT/Valorion)             | Minecraft Clone made with LWJGL & JOML library                                    | Game Dev      |
+  | [Voxel Engine](https://github.com/VadamDev/VoxelEngine)         | Minecraft Clone made with LWJGL & JOML library                                    | Game Dev      |
   |                                                                 |                                                                                   |               |
   | [VIAPI](https://github.com/VadamDev/VIAPI)                      | Huge toolkit for [Spigot](https://spigotmc.org/) plugin developers                | Spigot Plugin |
   | [CustomContentLib](https://github.com/VadamDev/CustomContentLib)| Easily add custom blocks & items in Minecraft 1.8                                 | Spigot Plugin |

@@ -25,7 +25,4 @@
   | [DiscordBotKit](https://github.com/VadamDev/DiscordBotKit)      | A framework to assist bot creation with [JDA](https://github.com/discord-jda/JDA) | Discord Bot   |
   | [Jafar](https://github.com/VadamDev/JafarBot)                   | A discord bot made for the "Jafar's Armada" discord                               | Discord Bot   |
 
-I have a lot of random side projects on my profile, feel free to check them if you're curious!
-
-<h2 align="center">☕ Statistics</h2>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadamDev&layout=compact&theme=tokyonight" /> </p>
+I have a lot of side projects on my profile, feel free to check them if you're curious!

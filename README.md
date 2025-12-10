@@ -1,5 +1,7 @@
 <h2 align="center">👋 Hi there - I'm a Software Developer from France</h2>
 
+Polyvalent developer but mostly Java, C and a bit of graphics programming.
+
 > ### `💡 Skills`
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSharp](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=dotnet&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -17,12 +19,12 @@
 > ### `💼 Open Source Projects`
   | Name                                                            | Description                                                                       | Domain        |
   |:---------------------------------------------------------------:|:---------------------------------------------------------------------------------:|:-------------:|
-  | [Voxel Engine](https://github.com/VadamDev/VoxelEngine)         | Minecraft Clone made with LWJGL & JOML library                                    | Game Dev      |
-  |                                                                 |                                                                                   |               |
-  | [VIAPI](https://github.com/VadamDev/VIAPI)                      | Huge toolkit for [Spigot](https://spigotmc.org/) plugin developers                | Spigot Plugin |
-  | [CustomContentLib](https://github.com/VadamDev/CustomContentLib)| Easily add custom blocks & items in Minecraft 1.8                                 | Spigot Plugin |
-  |                                                                 |                                                                                   |               |
+  | [Voxel Engine](https://github.com/VadamDev/VoxelEngine)         | Minecraft Clone made with LWJGL & JOML                                            | Game Dev      |
+  | <br>                                                            |                                                                                   |               |
+  | [VIAPI](https://github.com/VadamDev/VIAPI)                      | Huge toolkit for [Spigot](https://spigotmc.org/) plugin developers                | [MC 1.8.9] Spigot Plugin |
+  | [CustomContentLib](https://github.com/VadamDev/CustomContentLib)| Easily add custom blocks & items in Minecraft                                     | [MC 1.8.9] Spigot Plugin |
+  | <br>                                                            |                                                                                   |               |
   | [DiscordBotKit](https://github.com/VadamDev/DiscordBotKit)      | A framework to assist bot creation with [JDA](https://github.com/discord-jda/JDA) | Discord Bot   |
-  | [Jafar](https://github.com/VadamDev/JafarBot)                   | A discord bot made for the "Jafar's Armada" discord                               | Discord Bot   |
 
 I have a lot of side projects on my profile, feel free to check them if you're curious!
+<br> *Contributions on private projects are hidden.*

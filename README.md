@@ -4,7 +4,7 @@ Polyvalent developer but mostly Java and a bit of graphics programming.
 <br> Currently learning C++
 
 > ### `💡 Skills`
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSharp](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=dotnet&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSharp](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=dotnet&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) ![NuGet](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)
 
@@ -21,7 +21,7 @@ Polyvalent developer but mostly Java and a bit of graphics programming.
   | Name                                                            | Description                                                                       | Domain        |
   |:---------------------------------------------------------------:|:---------------------------------------------------------------------------------:|:-------------:|
   | [Voxel Engine](https://github.com/VadamDev/VoxelEngine)         | Minecraft Clone made with LWJGL & JOML                                            | Game Dev      |
-  | [GravitySim](https://github.com/VadamDev/GravitySim)            | Simple gravity simulation made with GLFW / OpenGL                                 | Game Dev      |
+  | [RayTracing](https://github.com/VadamDev/RayTracing)            | Ray tracing experiments, made with OpenGL & GLFW                                  | Game Dev      |
   | <br>                                                            |                                                                                   |               |
   | [VIAPI](https://github.com/VadamDev/VIAPI)                      | Huge toolkit for [Spigot](https://spigotmc.org/) plugin developers                | [MC 1.8.9] Spigot Plugin |
   | [CustomContentLib](https://github.com/VadamDev/CustomContentLib)| Easily add custom blocks & items in Minecraft                                     | [MC 1.8.9] Spigot Plugin |
